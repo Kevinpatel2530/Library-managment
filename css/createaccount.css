@@ -61,3 +61,19 @@ body, html {
   img {
     border-radius: 50%;
   }
+.btn1 {
+  position: absolute;
+  right: 500px;
+  margin: 20px;
+  max-width: 300px;
+  padding: 16px;
+  background-color: white;
+
+  background-color: blue;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
